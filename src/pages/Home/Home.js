@@ -1,6 +1,6 @@
 import React from 'react'
 import HomeStyle from './HomeStyle'
-import MyImg from "../../assets/images/myImg2.jpeg"
+import MyImg from "../../assets/images/port1.jpg"
 import CircularRotatingImg from '../../components/CircularRotatingImg/CircularRotatingImg'
 import styled from 'styled-components'
 import TwoCircleButton from '../../components/TwoCircleButton/TwoCircleButton'
